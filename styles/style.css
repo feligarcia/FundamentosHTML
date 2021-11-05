@@ -1,0 +1,17 @@
+.menu {
+    background-color: rgb(250, 249, 234);
+    
+}
+body {
+    background-color: #f3f4f5;
+}
+#titulo-ppal {
+    color: black;
+    font: Arial;
+    font-size: 24px;
+}
+.parrafos {
+    color: #757575;
+    font: Georgia;
+    font-size: 18px;
+}
